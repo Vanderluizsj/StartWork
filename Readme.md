@@ -1,8 +1,13 @@
-# 🛠StartWork 
+# 🚀 StartWork
+
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![C#](https://img.shields.io/badge/C%23-12.0-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🎥 Demonstração
 <p align="center">
-  <img src=".docs/Demo.mp4" alt="Demonstração da automação" />
+  <img src=".docs/Demo.gif" alt="Demonstração da automação" />
 </p>
 
 ---
