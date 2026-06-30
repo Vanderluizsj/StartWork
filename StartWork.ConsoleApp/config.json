@@ -1,0 +1,14 @@
+{
+  "InicioTrabalho": "08:00",
+  "FimTrabalho": "18:00",
+
+  "LinksTrabalho": [
+    "https://nddtech.my.salesforce.com/?ec=302&startURL=%2Fvisualforce%2Fsession%3Furl%3Dhttps%253A%252F%252Fnddtech.lightning.force.com%252Flightning%252Fpage%252Fhome"
+  ],
+
+  "LinksEstudo": [
+    "https://meet.google.com/qdu-bbrw-fjd?authuser=0",
+    "https://github.com/academiadoprogramador-backend",
+    "https://classroom.google.com/w/Nzk0MTQ2Mzk5NjYx/t/all"
+  ]
+}
