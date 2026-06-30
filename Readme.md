@@ -42,7 +42,9 @@
 * Program.cs
 * config.json
 ---
-### Configuração
+### ⚙️Configuração
+Edite o arquivo `appsettings.json` informando seu horário de trabalho e os links que serão abertos automaticamente.
+```json
 {
   "InicioTrabalho": "08:00",
   "FimTrabalho": "18:00",
@@ -57,17 +59,16 @@
       "..."
   ]
 }
+```
+---
+
+###  Melhorias futuras
+* Perfis (Trabalho, Estudo, Cliente)
+* Interface gráfica (WPF ou WinUI)
+* Instalador
 
 ---
 
-## Melhorias futuras
-Perfis (Trabalho, Estudo, Cliente)
-Ícone na bandeja do Windows
-Interface gráfica (WPF ou WinUI)
-Instalador
-
----
-
-## 👨‍💻 Autor
+### 👨‍💻 Autor
 
 **Vanderluiz Oliveira**
